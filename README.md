@@ -1,3 +1,3 @@
 # C-Programming
 
-Types OF Program made by C language
+This is a repository for maintaining all my c programming language.
