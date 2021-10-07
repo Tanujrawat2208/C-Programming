@@ -1,0 +1,15 @@
+/* Enter the value of n=10
+1 11 111 1111 11111 111111 1111111 11111111 111111111 1111111111 */
+#include<stdio.h>
+int main()
+{
+    int i,c=0,n;
+    printf("Enter the value of n=");
+    scanf("%d",&n);
+    for(i=0;i<n;i++)
+    {
+        c=c*10+1;
+        printf("%d ",c);
+    }
+    return 0;
+}
